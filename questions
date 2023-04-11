@@ -1,0 +1,11 @@
+#1
+print() & input()
+
+#2
+operators: +, -, *, /, **, //
+
+#3
+if, else, elif
+
+#4
+for, while

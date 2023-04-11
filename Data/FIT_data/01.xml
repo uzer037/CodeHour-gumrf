@@ -1,0 +1,12 @@
+<task>
+    <text>
+        Hello,<fillin correct=""/>!
+    </text>
+    <variants>
+        <var id="0">World</var>
+        <var id="1">Worm</var>
+        <var id="2">Warudo</var>
+        <var id="3">Work</var>
+        <var id="3">Wii U</var>
+    </variants>
+</task>
